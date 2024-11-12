@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "zone.js": "^0.14.4"
+  }
+}
